@@ -1,2 +1,4 @@
-Java version 8
+Java 8
 JDBC 6.0
+Tomcat 9
+SQLServer 
